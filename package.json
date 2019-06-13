@@ -1,0 +1,14 @@
+{
+  "name": "zzz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Suman Ansii",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
